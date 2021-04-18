@@ -1,10 +1,22 @@
 # projet_gestion_compte_bancaire
 
+
+Travail à réaliser :
+
+Mettre en place la base de données « banque » sous MySQL.
+Écrire les classes de connexion à la base de données.
+Utiliser JDBC (avec ou sans le pattern DAO).
+Écrire une classe contenant les méthodes permettant les actions suivantes :
+Créer, lire, modifier et supprimer un titulaire, un type de compte et un compte.
+Lister des opérations pour un compte sélectionné.
+Enregistrer une opération sur un compte (Dépôt ou retrait)
+Remplissez vos tables avec Mockaroo ou autres pour effectuer des tests.
+Mettre votre travail sur votre Git
+
+
 Contexte du projet
 
 Règles de gestion
-
-​
 
 Un Compte est associé à un et un seul Titulaire
 
